@@ -1,12 +1,12 @@
 ![Awesome MongoDB Compass](icon.png)
 
-# Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome MongoDB Compass [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Build status](https://img.shields.io/travis/mongodb-js/awesome-compass.svg)](https://travis-ci.org/mongodb-js/awesome-compass)
 [![Issue closure](https://img.shields.io/issuestats/i/github/mongodb-js/awesome-compass.svg)](http://issuestats.com/github/mongodb-js/awesome-compass)
 [![Pull closure](https://img.shields.io/issuestats/p/github/mongodb-js/awesome-compass.svg)](http://issuestats.com/github/mongodb-js/awesome-compass)
 
-> A curated list of awesome MongoDB Compass resources, libraries, and tools
+> A curated list of awesome MongoDB Compass Plugin tutorials, libraries, docs and examples
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
